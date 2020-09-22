@@ -4,6 +4,9 @@
     hi, i'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/MahdiFakhr">mediv0</a></b>.
     <br><br>
 </samp>
+  
+  
+  ![alt text](https://i.pinimg.com/originals/9f/92/6c/9f926c8c220127d81c8ba6897aa8d5db.gif)
 
 
 
@@ -25,7 +28,3 @@
 </div>  
 
 
-  
-<div align="center>
-  ![alt text](https://i.pinimg.com/originals/9f/92/6c/9f926c8c220127d81c8ba6897aa8d5db.gif)
-</div>

@@ -3,9 +3,9 @@
   <samp>
     hi, i'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/MahdiFakhr">mediv0</a></b>.
     <br>
-    [![Codewars]((https://www.codewars.com/users/mediv0/badges/large)](https://www.codewars.com/users/mediv0)
 </samp>
- 
+  
+# [![Codewars](https://www.codewars.com/users/mediv0/badges/large)](https://www.codewars.com/users/mediv0) 
 
 </p>
 

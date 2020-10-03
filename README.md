@@ -5,7 +5,11 @@
     <br>
 </samp>
   
-# [![Codewars](https://www.codewars.com/users/mediv0/badges/large)](https://www.codewars.com/users/mediv0) 
+<a href="https://www.codewars.com/users/mediv0" target="_blank">
+  
+  <img src="https://www.codewars.com/users/mediv0/badges/large">
+  
+  </a>
 
 </p>
 

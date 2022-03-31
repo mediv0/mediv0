@@ -1,4 +1,4 @@
-<div style="text-align:center" align="center"><img width=520 src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/bbefa799786133.5efa9bf3d1b49.gif" />
+<div style="text-align:center" align="center"><img src="https://media4.giphy.com/media/fwtYgX4buYMJw0hJeA/giphy.gif" />
 <br/>
   <br>
   <p align="center">

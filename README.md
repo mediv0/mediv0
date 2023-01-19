@@ -1,6 +1,3 @@
-
-<br/>
-  <br>
   <p align="center">
   <samp>
     <a href="https://mediv.vercel.app">website</a> .

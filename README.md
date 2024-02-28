@@ -1,5 +1,10 @@
   <p align="center">
   <samp>
+    fullstack software engineer / fullstack product designer
+    <br />
+  </samp>
+    <br/ >
+  <samp>
     <a href="https://mediv.vercel.app">website</a> .
     <a href="https://mediv.vercel.app/blog">blog</a> .
     <a href="https://github.com/mediv0/my-side-projects">projects</a> .

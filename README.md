@@ -1,3 +1,9 @@
+<p align="center">
+     Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="19" height="19" />
+I'm Mahdi, a passionate Software Developer and UI/UX Designer
+
+</p>
+  
   <p align="center">
   <samp>
     fullstack software engineer / fullstack product designer
@@ -15,4 +21,3 @@
     <a href="mailto:anonymousaxis@gmail.com">email</a>
   </samp>
 </p>
-</div>
